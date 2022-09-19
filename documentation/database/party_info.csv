@@ -1,0 +1,16 @@
+id,party,party_fullname,party_institution
+1,SbiDel,Sbi Delhi,Sbi
+2,SbiMum,Sbi Mumbai,Sbi
+3,SbiGur,Sbi Gurgaon,Sbi
+4,HdfcDel,Hdfc Delhi,Hdfc
+5,HdfcMum,Hdfc Mumbai,Hdfc
+6,HdfcGur,Hdfc Gurgaon,Hdfc
+7,BarclaysLon,Barclays London,Barclays
+8,BarclaysNew,Barclays Newyork,Barclays
+9,BarclaysCan,Barclays Canada,Barclays
+10,JpmorganNew,Jpmorgan Newyork,Jpmorgan
+11,JpmorganTok,Jpmorgan Tokyo,Jpmorgan
+12,JpmorganLon,Jpmorgan London,Jpmorgan
+13,UbsLon,Ubs London,Ubs
+14,UbsOnt,Ubs Ontario,Ubs
+15,UbsNew,Ubs Newyork,Ubs
