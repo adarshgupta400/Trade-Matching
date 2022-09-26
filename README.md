@@ -12,9 +12,17 @@ Trade-Matching
 - All Validation on Trades,error handling, Custom Responses, unit test cases and end to end testing covered
 
 <img src="https://user-images.githubusercontent.com/59231700/192249469-aaf082c1-451e-48d2-8676-128e1b2ecabd.png">
-<img src="https://user-images.githubusercontent.com/59231700/192250437-7db20735-c820-4ddb-8531-eff80346cc55.png" >
-<img src="https://user-images.githubusercontent.com/59231700/192250733-f910e978-3133-4b24-b489-bd6ae3c29df7.png" >
+<img src="https://user-images.githubusercontent.com/59231700/192253731-bdb0fe51-e928-4c6d-8b53-bd3700bd1007.png" >
+<img src="https://user-images.githubusercontent.com/59231700/192250733-f910e978-3133-4b24-b489-bd6ae3c29df7.png" width="500" height="500" align="right">  
+<img src="https://user-images.githubusercontent.com/59231700/192253802-cf323d43-21cb-40b6-83f6-e80c5b7e6443.png" width="400" height="400" >
+<img src="https://user-images.githubusercontent.com/59231700/192253637-acf5b2c7-b4d2-4b38-9cb5-312a96402fff.png" >
 
+<img src="https://user-images.githubusercontent.com/59231700/192253678-c17ea30b-6470-4b84-961a-639e1b1749dc.png" >
+
+<img src="https://user-images.githubusercontent.com/59231700/192254386-fb72ad65-7021-46bb-9a31-536ddf5612ec.png" >
+<img src="https://user-images.githubusercontent.com/59231700/192254450-ce3eaba8-df7e-432c-97da-d7b6a37f46c3.png" >
+<img src="https://user-images.githubusercontent.com/59231700/192254483-1f9542ef-52ff-4393-bbbe-cf981774b550.png" >
+<img src="https://user-images.githubusercontent.com/59231700/192254783-71f3f365-d382-42a8-b765-db1e7e5749f2.png" >
 
 # 🚀 Technical Stack:
 
