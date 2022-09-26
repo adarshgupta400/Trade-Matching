@@ -11,7 +11,7 @@ Trade-Matching
 - CRUD for Institution,Party and Trades are implemented
 - All Validation on Trades,error handling, Custom Responses, unit test cases and end to end testing covered
 
-<img src="https://user-images.githubusercontent.com/53696144/190675313-08c01a1f-cbad-49e5-b817-7b04f736b7e8.png" width="500px" height="400px">
+<img src="https://user-images.githubusercontent.com/59231700/192249469-aaf082c1-451e-48d2-8676-128e1b2ecabd.png">
 <img src="https://user-images.githubusercontent.com/53696144/190675588-ac92183e-76f3-4506-a403-1d1d5876c2ae.png" width="500px" height="400px">
 
 # 🚀 Technical Stack:
